@@ -46,4 +46,4 @@ Nameserver changes can take from a few minutes up to 24–48 hours.
 
 ## Contact
 
-The Contact link opens `mailto:hello@vestera.capital`.
+The Contact link opens `mailto:hello@vesteracap.com`.
